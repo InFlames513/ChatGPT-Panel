@@ -1,7 +1,6 @@
 # Bilgilendirme
 Koddaki "API_KEY" yerine `openai.com` adresinden aldığınız api anahtarını girmeniz gerekiyor.<br>
-Sonrasında terminale ```bash
-python -u index.py``` yazarak kodu çalıştırabilirsiniz.
+Sonrasında terminale `python -u index.py` yazarak kodu çalıştırabilirsiniz.
 
 # İletişim
 Eğer yardıma ihtiyacınız olursa:<br>
